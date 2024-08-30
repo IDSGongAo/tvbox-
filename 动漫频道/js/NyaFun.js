@@ -3,7 +3,7 @@ muban.mxpro.二级.tabs = '#y-playList&&.module-tab-item';
 var rule = {
     title:'NyaFun',
     模板:'mxpro',
-    host:'https://www.nyacg.net/',
+    host:'https://www.mfan.tv/',
     // url:'/show/fyclass/page/fypage.html',
     url:'/show/fyclassfyfilter.html',
     searchUrl: '/search/wd/**/page/fypage.html',
